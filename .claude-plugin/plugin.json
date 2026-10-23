@@ -1,0 +1,1 @@
+{ "name": "keret-figyelo", "version": "0.1.0", "description": "Shows Claude plan usage (session and weekly %) in the status line, warns at 80% and 95%" }

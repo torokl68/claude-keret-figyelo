@@ -1,0 +1,5 @@
+{
+  "name": "claude-keret-figyelo",
+  "owner": { "name": "torokl68" },
+  "plugins": [{ "name": "keret-figyelo", "source": "./" }]
+}
